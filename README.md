@@ -1,4 +1,5 @@
 # Easy-Java-Game
+b.mp3需要轉成wav\n
 打乒乓球
 按START開始
 難度為調整球的速度
